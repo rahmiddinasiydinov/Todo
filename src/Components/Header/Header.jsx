@@ -12,7 +12,7 @@ function Header(){
             title: 'Vazifalar',
             delete: 'O\'chirish',
             guide:'Qo\'llanma',
-            text:'Ushbu veb-saytda siz kundalik faoliyatingizni yanada osonroq rejalashtirishingiz mumkin. Bu erda ba\'zi ko\'rsatmalar mavjud: kiritishga rejalashtirayotgan faoliyatingizni kiriting, faollik ro\'yxatida "O\'chirish" tugmasini bosish orqali faoliyatni o\'chirishingiz mumkin, nihoyat, agar bajargan bo\'lsangiz, rejangizni belgilash katagiga bosing.'
+            text:'Ushbu veb-saytda siz kundalik faoliyatingizni yana ham osonroq rejalashtirishingiz mumkin. Bu erda ba\'zi ko\'rsatmalar mavjud: kiritishga rejalashtirayotgan faoliyatingizni kiriting, faollik ro\'yxatida "O\'chirish" tugmasini bosish orqali faoliyatni o\'chirishingiz mumkin, nihoyat, agar bajargan bo\'lsangiz, rejangizni belgilash katagiga bosing.'
         },
         eng:{
             submit:'Submit',
