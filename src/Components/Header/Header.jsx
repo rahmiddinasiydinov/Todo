@@ -19,7 +19,7 @@ function Header(){
             title:'Todos',
             delete:'Delete',
             guide :'Guidelines',
-            text:'In this Website you can plan your daily activities in more easy way. Here ere some  instructions\:enter activity you are planning into the input, on acticity list you can delete activity by clicking \'delete\' button. Finally, if you have done, your plan you click checkbox.'
+            text:'In this Website you can plan your daily activities in more easy way. Here ere some  instructions:enter activity you are planning into the input, on acticity list you can delete activity by clicking \'delete\' button. Finally, if you have done, your plan you click checkbox.'
         },
         ru:{
             submit:'Разместить',
@@ -37,7 +37,6 @@ function Header(){
     const [lang , setLang] = useState('uz');
     const value = useRef();
     const modal = useRef()
-    const submit  = useRef();
     // console.log(window.localStorage.getItem('todos'))
     function handle(e){
         e.preventDefault();
